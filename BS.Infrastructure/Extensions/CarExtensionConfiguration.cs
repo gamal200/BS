@@ -12,10 +12,8 @@ namespace BS.Infrastructure
         public void Configure(EntityTypeBuilder<Car> builder)
         {
             builder.HasKey(e => e.Id);
-            builder.HasOne(e => e.Brand).WithMany(e=>e.Cars).HasForeignKey(e=>e.BrandId);
-            builder.HasOne(e => e.Model).WithMany(e=>e.Cars).HasForeignKey(e=>e.ModelId);
-            builder.HasOne(e => e.AccessCard).WithOne(e=>e.Car).HasForeignKey<Car>(e=>e.AccessCardId);
-            builder.HasOne(e => e.Employee).WithOne(e => e.Car).HasForeignKey<Car>(e => e.EmployeeId);
+            builder.HasOne(e => e.AccessCard);//.WithOne(e=>e.Car).HasForeignKey<Car>(e=>e.AccessCardId);
+            builder.HasOne(e => e.Employee);//.WithOne(e => e.Car).HasForeignKey<Car>(e => e.EmployeeId);
             builder.HasIndex(e => e.EmployeeId).IsUnique();
             builder.HasMany(e => e.ExitGates).WithOne(e => e.Car).HasForeignKey(e => e.CarId);
         }

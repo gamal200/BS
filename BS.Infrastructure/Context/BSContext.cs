@@ -27,10 +27,9 @@ namespace BS.Infrastructure
         public virtual DbSet<AccessCard> AccessCard { get; set; }
         public virtual DbSet<AccessCardCredit> AccessCardCredit { get; set; }
         public virtual DbSet<Employee> Employee { get; set; }
-        public virtual DbSet<Brand> Brand { get; set; }
+        
         public virtual DbSet<ExitGates> ExitGates { get; set; }
-        public virtual DbSet<Model> CarModel { get; set; }
-        public virtual DbSet<Gate> Gate { get; set; }
+        //public virtual DbSet<Gate> Gate { get; set; }
 
         #endregion
 

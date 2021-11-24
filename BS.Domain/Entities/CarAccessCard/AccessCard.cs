@@ -10,8 +10,8 @@ namespace BS.Domain
         {
             AccessCardCredit = new HashSet<AccessCardCredit>();
         }
-        public int CarId { get; set; }
-        public virtual Car Car { get; set; }
+        //public int CarId { get; set; }
+        //public virtual Car Car { get; set; }
         public ICollection<AccessCardCredit> AccessCardCredit { get; set; }
         public string AccessCardType { get; set; }
     }

@@ -8,7 +8,9 @@ namespace BS.Domain
     {
         public virtual Car Car { get; set; }
         public int CarId { get; set; }
-        public int GateId { get; set; }
-        public virtual Gate Gate { get; set; }
+        //public int GateId { get; set; }
+        //public virtual Gate Gate { get; set; }
+
+        public string GateType { get; set; }
     }
 }

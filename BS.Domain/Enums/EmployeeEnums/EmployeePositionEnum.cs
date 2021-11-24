@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BS.Domain.Enums.EmployeeEnums
+namespace BS.Domain
 {
     public enum EmployeePositionEnum
     {

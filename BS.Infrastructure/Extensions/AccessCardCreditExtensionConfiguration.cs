@@ -12,7 +12,7 @@ namespace BS.Infrastructure
         public void Configure(EntityTypeBuilder<AccessCardCredit> builder)
         {
             builder.HasKey(e => e.Id);
-            builder.HasOne(e => e.AccessCard);
+            builder.HasOne(e => e.AccessCard).WithMany(e=>e.AccessCardCredit).HasForeignKey(e=>e.AccessCardId);
         }
     }
 }

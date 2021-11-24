@@ -6,6 +6,6 @@ namespace BS.Domain
 {
     public enum AccessCardCreditTypeEnum
     {
-        WelcomedCredit=1,FreeCredit=2
+        WelcomedCredit=1,FreeCredit=2,ExitGate=3
     }
 }

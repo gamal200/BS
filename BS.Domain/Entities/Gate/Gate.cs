@@ -10,11 +10,8 @@ namespace BS.Domain
         {
             ExitGates = new HashSet<ExitGates>();
         }
-        public string GateName { get; set; }
+       
         public string GateType { get; set; }
-        public string CostType { get; set; }
-        public int CostValue { get; set; }
-
         public ICollection<ExitGates> ExitGates { get; set; }
     }
 }

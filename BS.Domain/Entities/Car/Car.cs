@@ -13,10 +13,8 @@ namespace BS.Domain
 
         public int EmployeeId { get; set; }
         public Employee Employee { get; set; }
-        public Brand Brand { get; set; }
-        public int BrandId { get; set; }
-        public Model Model { get; set; }
-        public int ModelId { get; set; }
+        public string Brand { get; set; }
+        public string Model { get; set; }
         public string PlateNumber { get; set; }
         public int AccessCardId { get; set; }
         public AccessCard AccessCard { get; set; }

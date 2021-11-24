@@ -1,4 +1,5 @@
 ﻿using BS.Infrastructure;
+using BS.Service;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -50,8 +51,13 @@ namespace CarAccessGate.Extension
         public static void AddDIConfig(this IServiceCollection services)
         {
 
-
-            
+            services.AddScoped<IEmployeeService, EmployeeService>();
+            services.AddScoped<ICarService, ExitCarService>();
+            services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+            services.AddScoped<ICarRepository, CarRepository>();
+            services.AddScoped<IAccessCardRepository, AccessCardRepository>();
+            services.AddScoped<IAccessCardCreditRepository, AccessCardCreditRepository>();
+            services.AddScoped<IExitGateRepository,ExitGateRepository>() ;
         }
 
             public static void AddDbContextConfig(this IServiceCollection services, IConfiguration configuration)

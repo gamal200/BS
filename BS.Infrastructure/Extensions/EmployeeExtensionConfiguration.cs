@@ -12,7 +12,8 @@ namespace BS.Infrastructure
         public void Configure(EntityTypeBuilder<Employee> builder)
         {
             builder.HasKey(e => e.Id);
-            builder.HasIndex(e => e.CarId).IsUnique();
+            //builder.HasIndex(e => e.CarId).IsUnique();
+            //builder.HasOne(e => e.Car).WithOne(e => e.Employee).HasForeignKey<Employee>(e => e.CarId);
         }
     }
 }

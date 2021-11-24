@@ -13,7 +13,7 @@ namespace BS.Infrastructure
         {
             builder.HasKey(e => e.Id);
             builder.HasOne(e => e.Car);
-            builder.HasOne(e => e.Gate);
+            //builder.HasOne(e => e.Gate);
         }
     }
 }
