@@ -1,0 +1,15 @@
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Service\bin\Debug\netcoreapp3.1\BS.Service.deps.json
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Service\bin\Debug\netcoreapp3.1\BS.Service.dll
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Service\bin\Debug\netcoreapp3.1\BS.Service.pdb
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Service\obj\Debug\netcoreapp3.1\BS.Service.csproj.AssemblyReference.cache
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Service\obj\Debug\netcoreapp3.1\BS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Service\obj\Debug\netcoreapp3.1\BS.Service.AssemblyInfoInputs.cache
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Service\obj\Debug\netcoreapp3.1\BS.Service.AssemblyInfo.cs
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Service\obj\Debug\netcoreapp3.1\BS.Service.csproj.CoreCompileInputs.cache
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Service\obj\Debug\netcoreapp3.1\BS.Service.dll
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Service\obj\Debug\netcoreapp3.1\BS.Service.pdb
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Service\bin\Debug\netcoreapp3.1\BS.Domain.dll
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Service\bin\Debug\netcoreapp3.1\BS.Infrastructure.dll
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Service\bin\Debug\netcoreapp3.1\BS.Infrastructure.pdb
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Service\bin\Debug\netcoreapp3.1\BS.Domain.pdb
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Service\obj\Debug\netcoreapp3.1\BS.Service.csproj.CopyComplete

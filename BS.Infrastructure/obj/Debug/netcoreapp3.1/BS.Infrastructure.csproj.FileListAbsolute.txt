@@ -1,0 +1,16 @@
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Infrastructure\bin\Debug\netcoreapp3.1\BS.Infrastructure.deps.json
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Infrastructure\bin\Debug\netcoreapp3.1\BS.Infrastructure.runtimeconfig.json
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Infrastructure\bin\Debug\netcoreapp3.1\BS.Infrastructure.runtimeconfig.dev.json
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Infrastructure\bin\Debug\netcoreapp3.1\BS.Infrastructure.dll
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Infrastructure\bin\Debug\netcoreapp3.1\BS.Infrastructure.pdb
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Infrastructure\bin\Debug\netcoreapp3.1\BS.Domain.dll
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Infrastructure\bin\Debug\netcoreapp3.1\BS.Domain.pdb
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Infrastructure\obj\Debug\netcoreapp3.1\BS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Infrastructure\obj\Debug\netcoreapp3.1\BS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Infrastructure\obj\Debug\netcoreapp3.1\BS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Infrastructure\obj\Debug\netcoreapp3.1\BS.Infrastructure.AssemblyInfo.cs
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Infrastructure\obj\Debug\netcoreapp3.1\BS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Infrastructure\obj\Debug\netcoreapp3.1\BS.Infrastructure.csproj.CopyComplete
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Infrastructure\obj\Debug\netcoreapp3.1\BS.Infrastructure.dll
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Infrastructure\obj\Debug\netcoreapp3.1\BS.Infrastructure.pdb
+C:\Users\gamal.ibrahem\source\repos\BS\BS.Infrastructure\obj\Debug\netcoreapp3.1\BS.Infrastructure.genruntimeconfig.cache
